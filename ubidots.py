@@ -1,7 +1,7 @@
 import time
 import requests
 
-TOKEN = "BBFF-ta8jvjMGQMdFlDYe8B1oyEEmKkRl3f"  # Put your TOKEN here
+TOKEN = ""  # Put your TOKEN here
 DEVICE_LABEL = "raspi"  # Put your device label here 
 VARIABLE_LABEL_1 = "Biru"  # Put your first variable label here
 VARIABLE_LABEL_2 = "Hijau"
